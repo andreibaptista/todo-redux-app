@@ -13,3 +13,6 @@ Principles used:
 TDD /w:
 
 - Jest;
+- Husky;
+- Eslint;
+- Lintstaged
