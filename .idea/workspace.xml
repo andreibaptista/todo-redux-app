@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b91d330e-f259-4f94-a1cb-2d7e20c0be83" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +40,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="insert-features" />
-                    <option name="lastUsedInstant" value="1590102691" />
+                    <option name="branchName" value="config-project" />
+                    <option name="lastUsedInstant" value="1590105339" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1590102690" />
+                    <option name="lastUsedInstant" value="1590105317" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="insert-features" />
+                    <option name="lastUsedInstant" value="1590102691" />
                   </RecentBranch>
                 </list>
               </option>
@@ -79,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590099942491</updated>
       <workItem from="1590099943804" duration="1843000" />
-      <workItem from="1590101862227" duration="1831000" />
+      <workItem from="1590101862227" duration="3761000" />
     </task>
     <servers />
   </component>
