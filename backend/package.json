@@ -5,7 +5,8 @@
   "main": "src/loader.js",
   "scripts": {
     "dev": "nodemon",
-    "production": "pm2 start src/loader.js --name todo-app"
+    "production": "pm2 start src/loader.js --name todo-app",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -14,7 +15,7 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-typescript": "^7.9.0",
-    "@types/jest": "^25.2.1",
+    "@types/jest": "^25.2.3",
     "@types/node": "^13.11.0",
     "@typescript-eslint/eslint-plugin": "^2.26.0",
     "babel-jest": "^25.2.6",
@@ -28,13 +29,13 @@
     "express": "4.14.0",
     "git-commit-msg-linter": "^2.4.2",
     "husky": "^4.2.5",
-    "jest": "^25.2.7",
+    "jest": "^25.5.4",
     "lint-staged": "^10.2.6",
     "mongoose": "4.7.0",
     "node-restful": "0.2.5",
     "nodemon": "1.11.0",
     "pm2": "2.1.5",
-    "ts-jest": "^25.3.1",
+    "ts-jest": "^25.5.1",
     "typescript": "^3.8.3"
   }
 }
