@@ -23,8 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +110,7 @@
       <workItem from="1590099943804" duration="1843000" />
       <workItem from="1590101862227" duration="5788000" />
       <workItem from="1590109740691" duration="741000" />
-      <workItem from="1590110518192" duration="2391000" />
+      <workItem from="1590110518192" duration="2821000" />
     </task>
     <servers />
   </component>
